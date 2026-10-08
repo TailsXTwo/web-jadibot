@@ -1,0 +1,12 @@
+{
+  "name": "zeptrine-cloud",
+  "version": "1.0.0",
+  "description": "Website jadibot WhatsApp: login, panel bot, chat global, dan pemutar musik. Tanpa dependency.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node scripts/start.js",
+    "reset-password": "node scripts/reset-password.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
