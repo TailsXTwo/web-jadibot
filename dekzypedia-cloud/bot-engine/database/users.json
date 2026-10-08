@@ -1,0 +1,153 @@
+{
+  "108912418271388@lid": {
+    "jid": "108912418271388@lid",
+    "isRegistered": true,
+    "name": "",
+    "level": 0,
+    "exp": 300000,
+    "koin": 30000,
+    "energi": 400,
+    "premium": false,
+    "registeredAt": "2026-09-13T14:51:30.309Z",
+    "rpg": {},
+    "regName": "gtw",
+    "regAge": 100,
+    "regGender": "Laki-laki",
+    "lastRegisteredAt": "2026-09-13T14:51:30.309Z",
+    "registrationCount": 1,
+    "hasClaimedRegisterReward": true,
+    "unregisteredAt": null
+  },
+  "628111222333@s.whatsapp.net": {
+    "jid": "628111222333@s.whatsapp.net",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 130,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "629991112223@s.whatsapp.net": {
+    "jid": "629991112223@s.whatsapp.net",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 10,
+    "koin": 15,
+    "energi": 17,
+    "premium": false,
+    "registeredAt": null
+  },
+  "6285805575583@s.whatsapp.net": {
+    "jid": "6285805575583@s.whatsapp.net",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "120363427915199733@newsletter": {
+    "jid": "120363427915199733@newsletter",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "120363400911374213@newsletter": {
+    "jid": "120363400911374213@newsletter",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "96315061088374@lid": {
+    "jid": "96315061088374@lid",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "16274302226517@lid": {
+    "jid": "16274302226517@lid",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "176128639647980@lid": {
+    "jid": "176128639647980@lid",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "234501624078575@lid": {
+    "jid": "234501624078575@lid",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "90220217290811@lid": {
+    "jid": "90220217290811@lid",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "867051314767696@bot": {
+    "jid": "867051314767696@bot",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  },
+  "268857050705953@lid": {
+    "jid": "268857050705953@lid",
+    "isRegistered": false,
+    "name": "",
+    "level": 0,
+    "exp": 0,
+    "koin": 0,
+    "energi": 100,
+    "premium": false,
+    "registeredAt": null
+  }
+}

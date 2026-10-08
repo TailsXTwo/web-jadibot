@@ -1,0 +1,15 @@
+{
+  "extraOwners": [
+    "108912418271388@lid",
+    "96315061088374@lid"
+  ],
+  "autoBackupEnabled": false,
+  "autoBackupHours": 6,
+  "autoBackupLast": null,
+  "autorespon": {},
+  "registrationRequired": null,
+  "storeProducts": null,
+  "___runtime_test_missing___": null,
+  "___runtime_test___": true,
+  "__compat_test__": true
+}
